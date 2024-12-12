@@ -1,7 +1,7 @@
 function SubmitGhIssue() {
   return (
     <div className="mt-4 text-sm text-gray-600 dark:text-gray-100">
-      Tidak menemukan yang kamu cari? Kamu bisa membuat permintaan penambahan data baru melalui
+      ingin tahu informasi update Seputar Pramuka Bojonggambir  saat ini silahkan klik
       {` `}
       <a
         href="https://github.com/mazipan/pramuka.online/issues/new"
@@ -9,7 +9,7 @@ function SubmitGhIssue() {
         rel="noopenner noreferrer"
         className="text-link"
       >
-        Github issue
+        Kwarran Bojonggambir
       </a>
     </div>
   )
