@@ -4,7 +4,7 @@ function SubmitGhIssue() {
       ingin tahu informasi update Seputar Pramuka Bojonggambir  saat ini silahkan klik
       {` `}
       <a
-        href="https://github.com/mazipan/pramuka.online/issues/new"
+        href="https://kwarran.bojonggambir.web.id"
         target="_blank"
         rel="noopenner noreferrer"
         className="text-link"
