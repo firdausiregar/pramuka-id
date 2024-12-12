@@ -2,34 +2,25 @@ function Footer() {
   return (
     <footer className="mt-4 text-sm text-center">
       <p>
-        Dibuat oleh{' '}
+        Didukung oleh{' '}
         <a
-          href="https://mazipan.space/?utm_source=pramuka"
+          href="https://kwarran.bojonggambir.web.id"
           target="_blank"
           rel="noopenner noreferrer"
           className="font-bold text-link"
         >
-          Irfan Maulana
+          Kwarran Bojonggambir
         </a>
       </p>
       <p className="mt-2">
         Cek juga:{' '}
         <a
-          href="https://ksana.in/?utm_source=pramuka"
+          href="https://kampungpramuka.bojonggambir.web.id"
           target="_blank"
           rel="noopenner noreferrer"
           className="font-bold text-link"
         >
-          Ksana.in
-        </a>
-        {', '}
-        <a
-          href="https://www.baca-quran.id/?utm_source=pramuka"
-          target="_blank"
-          rel="noopenner noreferrer"
-          className="font-bold text-link"
-        >
-          Baca-Quran.id
+          Kampung Pramuka Bojonggambir
         </a>
       </p>
     </footer>
