@@ -15,7 +15,7 @@ User-Agent: FacebookBot
 Disallow: /
 
 # Host
-Host: https://pramuka-id.vercel.app
+Host: https://pramuka.bojonggambir.web.id
 
 # Sitemaps
-Sitemap: https://pramuka-id.vercel.app/sitemap.xml
+Sitemap: https://pramuka.bojonggambir.web.id/sitemap.xml
